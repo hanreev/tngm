@@ -30,3 +30,7 @@ Lazim di Jawa Barat dan Jawa Tengah tetapi  sejauh ini tidak ditemukan di Jawa T
 
 > ***Catatan:***  
 > Berbunga sekitar bulan Juni-Juli
+
+
+---
+![](https://chart.googleapis.com/chart?cht=qr&chs=256x256&chl=https%3A%2F%2Fhanreev.github.io%2Ftngm%2Fpages%2Fflora-03&chld=M)

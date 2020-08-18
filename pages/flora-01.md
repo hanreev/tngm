@@ -30,3 +30,7 @@ Lazim di seluruh Jawa walaupun agak berkurang di bagian timur, pada ketinggian 1
 
 > ***Catatan:***  
 > Berbunga sekitar bulan Januari, Juni s/d Agustus
+
+
+---
+![](https://chart.googleapis.com/chart?cht=qr&chs=256x256&chl=https%3A%2F%2Fhanreev.github.io%2Ftngm%2Fpages%2Fflora-01&chld=M)

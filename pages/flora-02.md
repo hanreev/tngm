@@ -33,3 +33,7 @@ Umumnya banyak tumbuh di dataran rendah di bawah ketinggia 500 m dpl.
 
 > ***Catatan:***  
 > Berbunga sekitar bulan September
+
+
+---
+![](https://chart.googleapis.com/chart?cht=qr&chs=256x256&chl=https%3A%2F%2Fhanreev.github.io%2Ftngm%2Fpages%2Fflora-02&chld=M)
